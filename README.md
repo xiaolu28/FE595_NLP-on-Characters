@@ -1,4 +1,5 @@
 # HW3_NLP-on-Characters
+
 This project is to do NLP on web scrapped data from "www.theyfightcrime.org"
 
 1 .To use the script, first you need to download all the data and .py file, save them in the same directory.
